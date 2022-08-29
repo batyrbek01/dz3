@@ -2,7 +2,7 @@ public class Main {
     public static int bossHealth = 700;
     public static int bossDamage = 50;
 
-    public static int[] heroesHealth = {270, 280, 260, 95,};
+    public static int[] heroesHealth = {270, 280, 260, 95};
     public static int[] heroesDamage = {20, 15, 25, 20};
 
     public static String[] heroesAttackType = {"Physical","Magical","Kinetic", "Medic","Golem"};
